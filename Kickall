@@ -1,0 +1,5 @@
+`game:GetService("Players").PlayerAdded:connect(function(player)`
+
+  `player:Kick()`
+
+`end)`
